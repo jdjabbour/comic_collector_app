@@ -1,2 +1,2 @@
-# comic_collector_app
+# Comic Collector App
 An app to catalogue your comics.
